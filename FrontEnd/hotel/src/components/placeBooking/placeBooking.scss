@@ -1,0 +1,48 @@
+.component-place-booking{
+    
+}
+#btn{
+    background: linear-gradient(18deg, rgba(255, 0, 0, 0.928) 4%, rgb(241, 118, 17) 30%, rgb(233, 214, 103) 70%);
+    padding-left: 22px;
+    padding-top: 5px;
+    padding-right: 22px;
+    padding-bottom: 5px;
+    font-size: 0.9em;
+    font-family: sans-serif;
+}
+
+#btn:hover{
+    background-color: #0c0b0c;
+    font-weight: bold;
+}
+
+.from{
+    width: 50%;
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: left;
+    background-color: #5c5959;
+    height: 5px;
+    padding: 10px 10px;
+}
+.container {    
+    background-color: #586059b8;
+    }   
+
+div.form
+{
+    width: 500px;
+    height: 5px;
+    display: block;
+    background-color: #5c5959;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.center {
+    display:flex;
+    justify-content: center;
+    height: 5px;
+    padding: 10px 10px;
+  }

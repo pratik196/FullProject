@@ -1,0 +1,60 @@
+
+.component-home-page{
+    
+}
+.hometab{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+#navbar-home{
+    //background-color: #650098;
+    height: 35px;
+    padding-top: 10px;
+    width: 20%;
+    margin-left: 570px;
+    //margin-right: 325px;
+    border-radius: 20px;
+    background: rgb(65, 213, 211);
+    background: linear-gradient(18deg, rgba(255, 0, 0, 0.928) 4%, rgb(241, 118, 17) 30%, rgb(233, 214, 103) 70%);
+    
+}
+.hometab:hover{
+    font-weight: bold;
+}
+
+.para{
+   margin-left: 130px;
+   margin-right: 130px;
+   justify-self: center;
+   color:#000000;
+   text-align: justify;
+   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 10px;
+  padding: 6px;
+  font-weight: 500;
+}
+
+.para {
+    
+    background-color: rgb(147, 131, 131);
+  }
+
+ 
+
+#header-new{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: xx-large;
+    
+}
+
+#header-new1{
+    background-color: #333;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: xxx-large;
+    color:#ffffff;
+}
+
